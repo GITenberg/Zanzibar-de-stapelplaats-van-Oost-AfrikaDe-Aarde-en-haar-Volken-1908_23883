@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '26111'
     url: http://www.gutenberg.org/2009/agents/26111
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23883#Zanzibar-de-stapelplaats-van-Oost-AfrikaDe-Aarde-en-haar-Volken-1908
 gutenberg_issued: '2007-12-17'
 gutenberg_type: Text
 identifiers:
